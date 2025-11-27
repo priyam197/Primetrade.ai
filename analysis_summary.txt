@@ -1,0 +1,3 @@
+Rows in trades: 211224
+Rows in daily: 188
+Mann-Whitney p-value (if computed): see earlier cell
