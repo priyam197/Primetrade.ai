@@ -10,8 +10,8 @@ The project analyzes whether daily market sentiment influences trading performan
 
 ## 📁 Project Structure
 
-`` ds_priyambada/
-│
+``` ds_priyambada/
+```│
 ├── notebook_1.ipynb # Data cleaning, merging, daily summary creation
 ├── notebook_2.ipynb # Visualizations, modeling, backtesting
 │
@@ -31,7 +31,8 @@ The project analyzes whether daily market sentiment influences trading performan
 │ ├── smoothed_trends.png
 │ └── toy_backtest_sentiment.png
 │
-└── ds_report.pdf # Final written report ``
+└── ds_report.pdf # Final written report
+```
 
 
 ---
